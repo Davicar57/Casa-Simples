@@ -22,7 +22,7 @@ body{background-color: white;
 #Entrar-sala{background-color: blue;
              position: fixed;
              bottom: 20%;
-             left: 0%;   
+             left: -40%;   
              width: 50%;
              height: 5%;
              border: 0px;
@@ -33,7 +33,7 @@ body{background-color: white;
 #Criar-sala{background-color: blue;
             position: fixed;
             bottom: 10%;
-            left: 0%;   
+            left: -40%;   
             width: 50%;
             height: 5%;
             border: 0px;
@@ -43,5 +43,5 @@ body{background-color: white;
 
 #frase{font-family: Verdana, Geneva, Tahoma, sans-serif;
        position: fixed;
-       left:0%;
+       left: -40%;
        top:30%;}
