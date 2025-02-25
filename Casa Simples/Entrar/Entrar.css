@@ -1,0 +1,22 @@
+body{background: linear-gradient(to right, blue,rgb(0, 0, 201), rgb(0, 0, 134));}
+
+#porta{color: white;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#porta_barra{background-color: white;
+             position: fixed;
+             left: 13%;
+             top: 3.5%;
+             width: 50px;
+             height: 16px;}
+
+
+#nome{color: white;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#nome_barra{background-color: white;
+            position: fixed;
+            left: 13%;
+            top: 1.3%;
+            width: 50px;
+            height: 16px;}
